@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**tamjidhossen/tamjidhossen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tamjid Hossen, a tech enthusiast currently studying Computer Science & Engineering. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning and exploring various aspects of computer science, including:
+  - Competative Programming & DSA
+  - Android development
+  - Web development technologies
+
+- 📫 How to reach me:
+  - LinkedIn: (https://www.linkedin.com/in/tamjidhossen/)
+
+Feel free to explore my repositories and reach out if you have any questions or just want to connect!
+
+Thanks for visiting. 😊
