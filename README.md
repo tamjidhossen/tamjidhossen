@@ -9,9 +9,6 @@ I'm Tamjid Hossen, a tech enthusiast currently studying Computer Science & Engin
   - Android development
   - Web development technologies
 
-- 📫 How to reach me:
-  - LinkedIn: (https://www.linkedin.com/in/tamjidhossen/)
-
 Feel free to explore my repositories and reach out if you have any questions or just want to connect!
 
 Thanks for visiting. 😊
